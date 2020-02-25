@@ -1,0 +1,65 @@
+{
+  "_from": "tarkov@^0.1.1",
+  "_id": "tarkov@0.1.1",
+  "_inBundle": false,
+  "_integrity": "sha512-N0bks17syD+vfH22y3tG5VY0w+EDlT8H0zdDFYwKKxIeN7tVD3RDrRXhgHAMgB8zqeEBpNpZJmVmXVCNG8GOhw==",
+  "_location": "/tarkov",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "tarkov@^0.1.1",
+    "name": "tarkov",
+    "escapedName": "tarkov",
+    "rawSpec": "^0.1.1",
+    "saveSpec": null,
+    "fetchSpec": "^0.1.1"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/tarkov/-/tarkov-0.1.1.tgz",
+  "_shasum": "5752df963246e34262186d5b474e251bc6d87caa",
+  "_spec": "tarkov@^0.1.1",
+  "_where": "F:\\tarkov-test",
+  "author": {
+    "name": "mkovero"
+  },
+  "bugs": {
+    "url": "https://github.com/matias-kovero/tarkov/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "crypto": "^1.0.1",
+    "pako": "^1.0.11",
+    "request-promise-native": "^1.0.8"
+  },
+  "deprecated": false,
+  "description": "A client library for Escape from Tarkov API",
+  "directories": {
+    "lib": "lib"
+  },
+  "homepage": "https://github.com/matias-kovero/tarkov#readme",
+  "keywords": [
+    "eft",
+    "api",
+    "sdk",
+    "api",
+    "escapefromtarkov",
+    "tarkov",
+    "bot",
+    "escape-from-tarkov"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "tarkov",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matias-kovero/tarkov.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.1"
+}
